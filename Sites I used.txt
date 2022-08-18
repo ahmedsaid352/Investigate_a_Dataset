@@ -1,0 +1,7 @@
+https://pandas.pydata.org/docs/index.html
+
+https://matplotlib.org/stable/tutorials/introductory/index.html
+
+http://seaborn.pydata.org/generated/seaborn.lineplot.html
+
+https://stackoverflow.com/
